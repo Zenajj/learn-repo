@@ -1,4 +1,4 @@
-#Commands
+# Commands
 clone  - Bring repo that is on github (or smth else) to folder on your pc
 add  - track your files and changes in Git
 commit – save your files in Git 
