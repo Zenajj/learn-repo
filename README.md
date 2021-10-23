@@ -1,4 +1,8 @@
 # Commands
+## init
+doda folder iz katerega smo pognali ukaz kot gitfolder
+primer: 'git init' 
+ČE želimo dodati ta repozitorij na github, naredimo na github nov repo z istim imenom, nato poženemo ukaz: 'git@github.com:Zenajj/demo-repo.git'
 ## clone
 Bring repo that is on github (or smth else) to folder on your pc
 ## add
