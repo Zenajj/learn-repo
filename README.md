@@ -52,6 +52,7 @@ združi current branch z main branchom
 2. gremo na github in naredimo pull request (lahko damo še kak komentar)
 3. nato lahko izberemo merge
 4. na lokalnem računalniku gremo na master branch in naredimo pull 'git pull'
+5. zbrišemo star branch z 'git branch -d ime-brancha'
 
 ## diff
 
