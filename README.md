@@ -37,6 +37,11 @@ download changes from remote repo to your local machine
 
 shows updated / created files, but were not commited
 
+## checkout
+
+da naredimo nov branch  
+primer: 'git checkout -b feature' z -b naredimo nov branch z imenom "feature"
+
 ## creating new ssh key
 
 ssh-keygen -t rsa -b 4096 - C "my.email@gmail.com" 
