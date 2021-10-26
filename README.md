@@ -67,8 +67,10 @@ pokaže log commitov
 
 undo changes, če še nismo commital: 'git reset'  
 če smo commital, pa hočemo undo commit: 'git reset HEAD~1' ... undo last commit  
-če žđelimo reset do določenega commita, najprej dobimo hash tega commita z ukazom 'git log'  
+če želimo reset določenega commita, najprej dobimo hash tega commita z ukazom 'git log'  
 nato damo ukaz: 'git reset HASH_KAMOR_ZELIMO_RESETIRAT'
+če želimo resetirat vse spremembe do določenega commita, najprej dobimo hash tega commita z ukazom 'git log'  
+nato damo ukaz: 'git reset --hard HASH_KAMOR_ZELIMO_RESETIRAT'
 
 ## creating new ssh key
 
