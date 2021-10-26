@@ -18,7 +18,8 @@ primer: 'git add .' --- dodamo vse datoteke (untracked and modified)
 ## commit
 
 save your files in Git (localy, če hočemo dati na guthub moramo dati še push)  
-primer: 'git commit -m "message content" -m "description"' -m pomeni message in doda sporocilo zakaj smo commital
+primer: 'git commit -m "message content" -m "description"' -m pomeni message in doda sporocilo zakaj smo commital  
+lahko združimo add in commit v en ukaz: 'git commit -am "description"'
 
 ## push
 
