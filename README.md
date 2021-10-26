@@ -47,11 +47,16 @@ primer: 'git checkout -b feature-readme' z -b naredimo nov branch z imenom "feat
 
 ## merge
 
-združi current branch z main branchom
+združi current branch z main branchom  
+1. najprej pushamo branch, ki ga želimo mergati 'git push -u origin ime-brancha'
+2. gremo na github in naredimo pull request (lahko damo še kak komentar)
+3. nato lahko izberemo merge
+4. na lokalnem računalniku gremo na master branch in naredimo pull 'git pull'
 
 ## diff
 
 prikaže razlike med dvema branchema
+
 
 ## creating new ssh key
 
