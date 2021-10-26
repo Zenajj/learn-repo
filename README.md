@@ -23,7 +23,8 @@ primer: 'git commit -m "message content" -m "description"' -m pomeni message in 
 ## push
 
 upload Git commits to remote repo like Github  
-primer: 'git push origin main'
+primer: 'git push origin main'  
+primer, da pushamo nov branch na github: 'git push -u origin feature-readme'
 
 ## pull
 
