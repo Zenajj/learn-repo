@@ -4,7 +4,8 @@
 
 doda folder iz katerega smo pognali ukaz kot gitfolder
 primer: 'git init'   
-ČE želimo dodati ta repozitorij na github, naredimo na github nov repo z istim imenom, nato poženemo ukaz: 'git@github.com:Zenajj/demo-repo.git'
+ČE želimo dodati ta repozitorij na github, naredimo na github nov repo z istim imenom, nato poženemo ukaz:  
+'git remote add origin git@github.com:Zenajj/demo-repo.git'
 
 ## clone
 
