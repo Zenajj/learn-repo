@@ -59,6 +59,14 @@ združi current branch z main branchom
 
 prikaže razlike med dvema branchema
 
+## log
+
+pokaže log commitov
+
+## reset
+
+undo changes, če še nismo commital: 'git reset'  
+če smo commital, pa hočemo undo commit: 'git reset HEAD~1' ... undo last commit
 
 ## creating new ssh key
 
