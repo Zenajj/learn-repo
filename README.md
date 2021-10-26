@@ -44,6 +44,14 @@ primer 'git chekout main' gremo nazaj na main branch
 da naredimo nov branch uporabimo -b    
 primer: 'git checkout -b feature-readme' z -b naredimo nov branch z imenom "feature-readme"
 
+## merge
+
+združi current branch z main branchom
+
+## diff
+
+prikaže razlike med current branch in main branch
+
 ## creating new ssh key
 
 ssh-keygen -t rsa -b 4096 - C "my.email@gmail.com" 
