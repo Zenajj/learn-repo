@@ -50,7 +50,7 @@ združi current branch z main branchom
 
 ## diff
 
-prikaže razlike med current branch in main branch
+prikaže razlike med dvema branchema
 
 ## creating new ssh key
 
